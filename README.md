@@ -27,7 +27,11 @@ This project performs an analysis of car pricing data using Python, focusing on 
    ```bash
    git clone https://github.com/ganeshiyappan3/car-pricing-analysis.git
    cd car-pricing-analysis
-1. Clone the repo:
-   ```bash
-   git clone https://github.com//car-pricing-analysis.git
-   cd car-pricing-analysis
+
+   📥 Install Dependencies
+
+pip install -r requirements.txt
+
+Run the Script
+
+python Car_price_detail.py
